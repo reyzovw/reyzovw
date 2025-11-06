@@ -4,5 +4,7 @@
 
 [![codewars](https://www.codewars.com/users/emp.inc/badges/large)](https://www.codewars.com/users/emp.inc)
 
+![My Bio!](https://img.shields.io/badge/My+Bio-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white)
+
 https://bio.site/reyzovw
 

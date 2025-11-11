@@ -6,6 +6,7 @@
 
 [![codewars](https://www.codewars.com/users/emp.inc/badges/large)](https://www.codewars.com/users/emp.inc)
 
+![Stats](https://github-readme-stats.vercel.app/api?username=reyzovw&show_icons=true&theme=dark)
 
 ### 📂 Обо мне
 Backend Developer с опытом руководства проектов и основателя. Специализируюсь на проектировании и разработке высоконагруженных систем. В прошлом основатель и технический руководитель проектов: "Soul Booking", "My Team", "Ceseum Client" и в нынешние время "emp.inc".
